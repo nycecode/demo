@@ -1,2 +1,2 @@
 # demo
-demo tests for API
+demo tests for APIs
